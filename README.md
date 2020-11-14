@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Test changes.
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -47,4 +48,10 @@ Test changes.
 
 Test Changes
 >>>>>>> Update README.md
+<<<<<<< HEAD
 >>>>>>> Update README.md
+=======
+=======
+Test changes.
+>>>>>>> fixing conflicts
+>>>>>>> fixing conflicts
